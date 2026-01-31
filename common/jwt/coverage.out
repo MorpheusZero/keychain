@@ -1,0 +1,20 @@
+mode: set
+github.com/morpheuszero/keychain/common/jwt/jwt.go:28.34,30.2 1 1
+github.com/morpheuszero/keychain/common/jwt/jwt.go:32.77,41.35 7 1
+github.com/morpheuszero/keychain/common/jwt/jwt.go:41.35,43.3 1 1
+github.com/morpheuszero/keychain/common/jwt/jwt.go:45.2,48.16 3 1
+github.com/morpheuszero/keychain/common/jwt/jwt.go:48.16,50.3 1 0
+github.com/morpheuszero/keychain/common/jwt/jwt.go:52.2,52.25 1 1
+github.com/morpheuszero/keychain/common/jwt/jwt.go:55.107,60.75 1 1
+github.com/morpheuszero/keychain/common/jwt/jwt.go:60.75,62.3 1 1
+github.com/morpheuszero/keychain/common/jwt/jwt.go:63.2,63.16 1 1
+github.com/morpheuszero/keychain/common/jwt/jwt.go:63.16,65.3 1 1
+github.com/morpheuszero/keychain/common/jwt/jwt.go:67.2,68.9 2 1
+github.com/morpheuszero/keychain/common/jwt/jwt.go:68.9,70.3 1 0
+github.com/morpheuszero/keychain/common/jwt/jwt.go:71.2,73.37 2 1
+github.com/morpheuszero/keychain/common/jwt/jwt.go:73.37,75.3 1 1
+github.com/morpheuszero/keychain/common/jwt/jwt.go:76.2,76.39 1 1
+github.com/morpheuszero/keychain/common/jwt/jwt.go:76.39,78.3 1 1
+github.com/morpheuszero/keychain/common/jwt/jwt.go:79.2,79.38 1 1
+github.com/morpheuszero/keychain/common/jwt/jwt.go:79.38,81.3 1 1
+github.com/morpheuszero/keychain/common/jwt/jwt.go:83.2,83.20 1 1
